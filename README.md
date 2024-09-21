@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm B. Rohith</h1>
 <h3 align="center">I'm Aspiring DevOps Engineer</h3>
+<img align="right" alt="Code it" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith055&label=Profile%20views&color=0e75b6&style=flat" alt="rohith055" /> </p>
 
