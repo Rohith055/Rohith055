@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith055&label=Profile%20views&color=0e75b6&style=flat" alt="rohith055" /> </p>
 <p align="left">
-- 🌱 I’m currently learning Linux,DSA,Python,Flask.
+- 🌱 I’m currently learning Linux,DSA,Python.
 </p>
 <p align="left">
 - 📫 How to reach me: <a href="mailto:brohith519@gmail.com">brohith519@gmail.com</a>
