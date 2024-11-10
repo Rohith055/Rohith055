@@ -1,6 +1,6 @@
 ![logo](https://github.com/Rohith055/Rohith055/blob/main/Gradient%20Modern%20Personal%20LinkedIn%20Banner%20(8).png)
-<h1 align="center">Hi 👋, I'm B.Rohith</h1>
-<h3 align="center">I'm Aspiring DevOps Engineer</h3>
+<h1 align="center">Rohith B</h1>
+<h3 align="center">Aspiring DevOps Engineer</h3>
 <img align="right" alt="Code it" width="380" src="https://media3.giphy.com/media/Y1vohJMVMtjSQxmUot/source.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith055&label=Profile%20views&color=0e75b6&style=flat" alt="rohith055" /> </p>
